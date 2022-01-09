@@ -1,6 +1,6 @@
 {
     "homepage": "http://ESThing64.github.io/release_partner",
-    "name": "berry-material-react",
+    "name": "release_partner",
     "version": "3.0.2",
     "private": true,
     "dependencies": {
